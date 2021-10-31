@@ -1,6 +1,6 @@
 	 ; Fiibonacci series
 	 
-	 AREA     largest, CODE, READONLY
+     AREA     fibonacci, CODE, READONLY
      EXPORT __main
      IMPORT printMsg
 
