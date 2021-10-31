@@ -1,4 +1,6 @@
-     AREA     largest, CODE, READONLY
+    ; largest in an array of size 3
+    
+     AREA     largest_in_an_array, CODE, READONLY
      EXPORT __main
      IMPORT printMsg
      ENTRY 
